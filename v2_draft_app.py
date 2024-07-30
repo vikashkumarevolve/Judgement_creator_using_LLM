@@ -171,7 +171,7 @@ def save_text_to_pdf(text, filename):
     buffer.seek(0)
     return buffer
 
-st.title("LawIntel.AI - Legal Judgment Generator")
+st.title("Legal Judgment Generator")
 st.write("Automate the generation of legal judgments for new petitions.")
 
 # Dropdown for selecting IPC section
